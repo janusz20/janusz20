@@ -2,8 +2,7 @@
 
   
 ### About Me:    
-I'm full stack developer. I'm good at python, node, C# and C++.
-Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
+10+ years of experience as a software engineer, with a focus on front-end development. Proven track record in developing high-quality and scalable web applications. Expertise in HTML, CSS, JavaScript, ReactJS, Angular.js, Vue.js, Typescript, NodeJS, Java/Spring Boot and Golang. Passionate about web standards and keeping up with the latest trends in technology. Skilled at coordinating cross-functional teams in a fast-paced, deadline-driven environment to steer timely project completion.
 
 ## 🚀 About Me
 
